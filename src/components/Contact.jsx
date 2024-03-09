@@ -36,7 +36,7 @@ function Contact() {
             required
           />
           <button
-            type="button"
+            type="submit"
             className="text-center inline-block px-8 py-3 w-max text-base 
             font-medium text-white bg-gradient-to-r from-yellow-500 
             to-pink-500 rounded-md drop-shadow-md transition
