@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Fade } from 'react-awesome-reveal';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Intro from './components/Intro';
@@ -73,11 +74,13 @@ function App() {
       </button>
       <div className="bg-white dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
         <div className="max-w-5xl w-11/12 mx-auto">
-          <Intro />
-          <Portfolio />
-          <Timeline />
-          <Contact />
-          <Footer />
+          <Fade direction="up" triggerOnce>
+            <Intro />
+            <Portfolio />
+            <Timeline />
+            <Contact />
+            <Footer />
+          </Fade>
         </div>
       </div>
     </>
