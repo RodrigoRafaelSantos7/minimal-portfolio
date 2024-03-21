@@ -22,7 +22,7 @@ function Footer() {
               </svg>
             </a>
             <a
-              href="https://github.com/RodrigoRafaelSantos7"
+              href="https://www.linkedin.com/in/rodrigo-santos-502b802b9/"
               className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >
               <svg

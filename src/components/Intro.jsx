@@ -29,8 +29,8 @@ function Intro() {
         engineering student at Nova School of Science and Technology in Lisbon,
         Portugal. My journey revolves around the fascinating world of
         technology, where I delve into the realms of full-stack development and
-        software engineering.I find myself deeply engaged in crafting innovative
-        solutions, particularly with React{' '}
+        software engineering. I find myself deeply engaged in crafting
+        innovative solutions, particularly with React{' '}
         <span className="italic"> (using tools like Vite and Next.js)</span> and
         Java. I&apos;m constantly seeking opportunities to expand my knowledge,
         collaborate with fellow enthusiasts, and make meaningful contributions
