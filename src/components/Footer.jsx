@@ -5,9 +5,10 @@ function Footer() {
     <div className="py-5 text-center">
       <div className="container max-w-screen-lg mx-auto">
         <div>
+          X
           <div className="flex flex-wrap justify-center gap-2">
             <a
-              href=""
+              href="Https://www.linkedin.com/in/rodrigo-santos-502b802b9/"
               className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >
               <svg
@@ -22,7 +23,7 @@ function Footer() {
               </svg>
             </a>
             <a
-              href="https://www.linkedin.com/in/rodrigo-santos-502b802b9/"
+              href="https://github.com/RodrigoRafaelSantos7"
               className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full"
             >
               <svg
